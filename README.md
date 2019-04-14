@@ -1,6 +1,6 @@
-# chat-app
-
-> A Vue.js project
+# Vue勉強がてら作っているチャットアプリです
+## https://chat-app-4649.firebaseapp.com
+でお試しいただけます。googleアカウント認証しないと書き込めない仕様です。
 
 ## Build Setup
 
